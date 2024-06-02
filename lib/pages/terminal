@@ -1,0 +1,7 @@
+flutter config --enable-web
+flutter build web
+flutter create .
+flutter run
+
+
+flutter pub add sqflite sqflite_common_ffi
